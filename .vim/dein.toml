@@ -1,0 +1,4 @@
+[[plugins]]
+repo = 'fatih/vim-go'
+repo = 'vim-jp/vimdoc-ja'
+repo = 'preservim/nerdtree'
