@@ -1,7 +1,7 @@
 # dotfiles-mini
 My mini dotfiles :)
 
-Just My mini files.
+Just My mini dotfiles.
 
 - zsh
 - zprezto
